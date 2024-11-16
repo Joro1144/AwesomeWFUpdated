@@ -42,5 +42,6 @@ All sites below let you download MIDI's for free!
 --------------------
 
 ## Tutorials
+- [Modding Tutorial](https://notnite.github.io/webfishing-mod-wiki/)
 ### Steam Guides
   - [How to use MIDI Files for the Guitar!](https://steamcommunity.com/sharedfiles/filedetails/?id=3352573634&searchtext=midi) - mrteacat
