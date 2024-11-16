@@ -1,6 +1,7 @@
 # Awesome-WEBFISHING
-Links and stuff related to Webfishing Modding and Tutorials
+Links and stuff related to Webfishing Modding and Resources.
 
+If you know of any other sites/links I haven't added, make a pull request!
 --------------------
 
 ## Contents
