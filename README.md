@@ -31,7 +31,9 @@ If you know of any other sites/links I haven't added, make a pull request!
 --------------------
 
 ## MIDI Tools
-  - [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) - MIDI channel creator usually used with WEBFISHING. Most MIDI player software for WEBFISHING requires that you create an open channel with loopMIDI. To play a song in-game, open the guitar menu, select the channel you made with loopMIDI in your MIDI player, play the song you want, then use the [MidiStrummer](https://github.com/puppy-girl/MidiStrummer) mod.
+  - [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) - MIDI channel creator usually used with WEBFISHING.
+
+Most MIDI player software for WEBFISHING requires that you create an open channel with loopMIDI. To play a song in-game, open the guitar menu, select the channel you made with loopMIDI in your MIDI player, play the song you want, then use the [MidiStrummer](https://github.com/puppy-girl/MidiStrummer) mod.
 
 ### Players
   - [WEBFISHING Guitar Player](https://github.com/KevAquila/WEBFISHING-Guitar-Player/) - Play MIDI's on WEBFISHING without needing to mod your game, or setup loopMIDI!
