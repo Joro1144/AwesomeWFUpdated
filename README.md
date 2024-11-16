@@ -1,5 +1,5 @@
 # Awesome-WEBFISHING
-Links and stuff related to Webfishing.
+Links and stuff related to [WEBFISHING](https://store.steampowered.com/app/3146520/WEBFISHING/).
 
 If you know of any other sites/links I haven't added, make a pull request!
 --------------------
