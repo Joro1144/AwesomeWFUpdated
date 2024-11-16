@@ -31,7 +31,7 @@ If you know of any other sites/links I haven't added, make a pull request!
   - [WEBFISHING Guitar Sequencer](https://webfishing-guitar.com/) - Create and upload MIDI's and edit them for WEBFISHING.
   - [Online Sequencer](https://onlinesequencer.net/) - Free browser MIDI file creator and editor.
 ### Songs
-All sites below let you download Midi's for free!
+All sites below let you download MIDI's for free!
   - [BitMidi](https://bitmidi.com/)
   - [MidiWorld](https://www.midiworld.com/files/)
   - [MidiFind](https://midifind.com/)
