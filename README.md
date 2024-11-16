@@ -38,3 +38,9 @@ All sites below let you download Midi's for free!
   - [nanoMIDI](https://nanomidi.net/)
   - [FreeMIDI](https://freemidi.org/)
   - [MidiFilesDownload](https://midifilesdownload.com/modules/wfdownloads/)
+
+--------------------
+
+## Tutorials
+### Steam Guides
+  - [How to use MIDI Files for the Guitar!](https://steamcommunity.com/sharedfiles/filedetails/?id=3352573634&searchtext=midi) - mrteacat
