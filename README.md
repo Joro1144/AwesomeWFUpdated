@@ -65,7 +65,7 @@ All sites below let you download MIDI's for free!
 
 ## Community
 ### Discord
-- [WEBFISHING Community Discord](https://discord.com/invite/webfishers)
+- [WEBFISHING Community Discord](https://discord.com/invite/webfishing)
 - [WEBFISHING Modding Community](https://discord.com/invite/webfishingmods)
 - [WEBFISHING Music Discord](https://discord.com/invite/7WtemYDazb)
 - [Hook, Line, & Sinker](https://discord.com/invite/zAdYquPx3U)
