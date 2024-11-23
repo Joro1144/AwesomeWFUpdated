@@ -41,7 +41,7 @@ Most MIDI player software for WEBFISHING requires that you create an open channe
   - [NanoMIDI Player](https://github.com/NotHammer043/nanoMIDIPlayer) - Simple, easy to use and configure MIDI player.
   - [Signal MIDI Player](https://signal.vercel.app/edit) - A MIDI player that runs completely in your browser using webMIDI.
 ### Editors
-  - [WEBFISHING Guitar Sequencer](https://webfishing-guitar.com/) - Create and upload MIDI's and edit them for WEBFISHING.
+  - [WEBFISHING Guitar Sequencer](https://sequencer.webfishing-guitar.com/) - Create and upload MIDI's and edit them for WEBFISHING.
   - [Online Sequencer](https://onlinesequencer.net/) - Free browser MIDI file creator and editor.
 ### Songs
 All sites below let you download MIDI's for free!
