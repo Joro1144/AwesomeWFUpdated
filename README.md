@@ -25,8 +25,9 @@ If you know of any other sites/links I haven't added, make a pull request!
 
 ## Software
 ### Mod Loaders
-- [Hook, Line, & Sinker](https://hooklinesinker.lol/) - The comprehensive mod manager for WEBFISHING using GDWeave.
+- [R2modman](https://r2modman.net)
 - [Thunderstore](https://thunderstore.io/c/webfishing/)
+- [Hook, Line, & Sinker](https://hooklinesinker.lol/) - (No longer supported)
 
 --------------------
 
