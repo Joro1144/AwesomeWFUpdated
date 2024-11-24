@@ -45,6 +45,7 @@ Most MIDI player software for WEBFISHING requires that you create an open channe
   - [Online Sequencer](https://onlinesequencer.net/) - Free browser MIDI file creator and editor.
 ### Songs
 All sites below let you download MIDI's for free!
+  - [Webfishing Music Spreadsheet](https://docs.google.com/spreadsheets/d/1lB0LjdHzhI4TUzsFfA_lN-UTkcLNwIjeJnx4y82DqQ8/edit?usp=sharing)
   - [Classical Guitar Midi Archives](https://www.classicalguitarmidi.com/)
   - [LyricWulf's Songs](https://lyricwulf.com/songs/)
   - [Bard Music Player](https://songs.bardmusicplayer.com)
