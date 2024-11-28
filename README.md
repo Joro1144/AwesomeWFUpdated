@@ -26,9 +26,9 @@ If you know of any other sites/links I haven't added, make a pull request!
 
 ## Software
 ### Mod Loaders
-- [R2modman](https://r2modman.net)
-- [Thunderstore](https://thunderstore.io/c/webfishing/)
-- [Hook, Line, & Sinker](https://hooklinesinker.lol/) - (No longer supported)
+  - [R2modman](https://r2modman.net)
+  - [Thunderstore](https://thunderstore.io/c/webfishing/)
+  - [Hook, Line, & Sinker](https://hooklinesinker.lol/) - (No longer supported)
 
 --------------------
 
@@ -62,7 +62,7 @@ All sites below let you download MIDI's for free!
 --------------------
 
 ## Tutorials
-- [Mod Development Wiki](https://notnite.github.io/webfishing-mod-wiki/)
+  - [Mod Development Wiki](https://notnite.github.io/webfishing-mod-wiki/)
 ### Steam Guides
   - [How to use MIDI Files for the Guitar!](https://steamcommunity.com/sharedfiles/filedetails/?id=3352573634&searchtext=midi) - mrteacat
 
@@ -73,4 +73,3 @@ All sites below let you download MIDI's for free!
 - [WEBFISHING Community Discord](https://discord.com/invite/webfishing)
 - [WEBFISHING Modding Community](https://discord.com/invite/webfishingmods)
 - [WEBFISHING Music Discord](https://discord.com/invite/7WtemYDazb)
-- [Hook, Line, & Sinker](https://discord.com/invite/zAdYquPx3U)
