@@ -39,7 +39,7 @@ If you know of any other sites/links I haven't added, make a pull request!
 Most MIDI player software for WEBFISHING requires that you create an open channel with loopMIDI. To play a song in-game, open the guitar menu, select the channel you made with loopMIDI in your MIDI player, play the song you want, then use the [MidiStrummer](https://github.com/puppy-girl/MidiStrummer) mod.
 
 ### Players
-  - [KevAquila's Guitar Player](https://github.com/KevAquila/WEBFISHING-Guitar-Player/) - Play MIDI's on WEBFISHING without needing to mod your game, or setup loopMIDI!
+  - [KevAquila's Guitar Player](https://github.com/KevAquila/WEBFISHING-Guitar-Player/) - Play MIDI's on WEBFISHING **without needing to mod your game, or setup loopMIDI**!
   - [Bard Music Player](https://songs.bardmusicplayer.com) - A MIDI player that has a simple UI, and has their song repository built in to the app.
   - [NanoMIDI Player](https://github.com/NotHammer043/nanoMIDIPlayer) - Simple, easy to use and configure MIDI player.
   - [Signal MIDI Player](https://signal.vercel.app/edit) - A MIDI player that runs completely in your browser using webMIDI.
