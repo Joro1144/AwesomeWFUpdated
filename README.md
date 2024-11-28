@@ -18,6 +18,7 @@ If you know of any other sites/links I haven't added, make a pull request!
 --------------------
 
 ## Websites
+- [WEBFISHING Wiki](https://webfishing.wiki.gg/wiki/WEBFISHING_Wiki)
 - [WebWEBFISHING](https://webwebfishing.notnite.com/) - Play WEBFISHING in your browser, also supports multiplayer with other browser players!
 - [WebWEBFISHING fork by LetsGoAway (me)](https://letsgoawaydev.github.io/WebWEBFISHING/) - WebWEBFISHING but with a cleaner UI + open source
 - [WEBFISHING Save Editor](https://notnite.github.io/webfishing-save-editor/) - Modify your WEBFISHING save data.
