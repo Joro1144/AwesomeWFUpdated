@@ -37,7 +37,7 @@ If you know of any other stuff I haven't added, please make a PR!
   - [Thunderstore](https://thunderstore.io/c/webfishing/) - Of course, Thunderstore has their own mod loader, but do you want ads while you try to install mods?
   - [Buoy: The Hook, Line and Sinker fork](https://github.com/FerretPaws/Buoy) - Previously HLS, then HLS Rewritten, and now Buoy. (All of which made by different people.)
   - [Gale](https://github.com/Kesomannen/gale) - Pretty lightweight and not that known for a smaller and open source mod loader.
-  - [Rod n' Mod](https://github.com/nyxical420/rodnmod) - Thematic and open source mod loader with the vibes of Webfishing when installing mods!
+  - ~~[Rod n' Mod](https://github.com/nyxical420/rodnmod) - Thematic and open source mod loader with the vibes of Webfishing when installing mods!~~ GitHub has been taken down, reason of which, is unknown.
 
 ### Dedicated Servers
   - [Cove](https://github.com/DrMeepso/WebFishingCove) - Made in C#, this server software is well known for being "lightweight and fast..[running] with less than 1gb of ram with 20+ players on the server!"
