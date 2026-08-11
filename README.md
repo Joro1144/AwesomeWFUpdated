@@ -9,13 +9,13 @@ If you know of any other stuff I haven't added, please make a PR!
 - [Software](#software)
   - [Mod Loaders](#mod-loaders)
   - [Dedicated Servers](#dedicated-servers)
+  - [Mods to Try Out](#mods-to-try-out)
 - [MIDI Tools](#midi-tools)
   - [Players](#players)
   - [Editors](#editors)
   - [Find Songs](#find-songs)
 - [Tutorials](#tutorials)
 - [Community](#community-1)
-  - 
   - [Steam Guides](#steam-guides)
 
 --------------------
