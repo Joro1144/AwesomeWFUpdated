@@ -55,7 +55,7 @@ If you know of any other stuff I haven't added, please make a PR!
 ## Players
   - [WEBFISHING Guitar](https://webfishing-guitar.com/) - The community-run MIDI player made specifically for WEBFISHING.
   - [KevAquila's Guitar Player](https://github.com/KevAquila/WEBFISHING-Guitar-Player/) - Play MIDIs on WEBFISHING **without needing to mod your game, or setup loopMIDI**! (Useful if you want a vanilla like experience. However this locks your mouse to the window!)
-  - [Bard Music Player](https://bardmusicplayer.com) - A MIDI player that has a simple UI, and has their song repository built in to the app.
+  - [Bard Music Player](https://bardmusicplayer.com/midis) - A MIDI player that has a simple UI, and has their song repository built in to the app.
   - [NanoMIDI Player](https://github.com/NotHammer043/nanoMIDIPlayer) - Simple, easy to use and configure MIDI player.
   - [Signal MIDI Player](https://signal.vercel.app/edit) - A MIDI player that runs completely in your browser using webMIDI.
 
