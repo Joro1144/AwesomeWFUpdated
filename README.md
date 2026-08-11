@@ -46,6 +46,12 @@ If you know of any other stuff I haven't added, please make a PR!
   - [Baiters](https://github.com/DanielMcAssey/baiters-server) - C# as usual, has plugin support and a very different UI when managing the server.
   - [Ducky](https://github.com/tma02/ducky) - Written in Rust, this is another option with a config to run the server.
 
+### Mods to Try Out
+  - [WebfishingPlusPlus](https://thunderstore.io/c/webfishing/p/CraigSterling/WebfishingPlusPlus/) - A mod that adds more content to the base game incorporating a new map, new rarities, objectives, cosmetics and more. I actually was surprised to see a "major" content mod after awhile of this game not getting updates for some time.
+  - [Unofficial Webfishing Patch](https://thunderstore.io/c/webfishing/p/uwp/Unofficial_Webfishing_Patch/) - A community mod to fix the game in ways that lamedev/West couldn't, plus adding some Quality of Life (QoL) stuff for the game.
+  - [YAAM - Yet Another Fishing Mod](https://thunderstore.io/c/webfishing/p/VeryUnlethalCoalition/YAAM/) - A mod dedicated just to automating the whole fishing mechanic. I see it as a accessibility tool after awhile, since it helps with late-game grinds.
+  - [ActiveLureHUD](https://thunderstore.io/c/webfishing/p/AshAxolotl/ActiveLureHUD/) - A mod that, as it's called, tells you how much bait you have, right on your HUD instead of having to check your inventory constantly.
+
 --------------------
 
 ### MIDI Tools
@@ -55,7 +61,8 @@ If you know of any other stuff I haven't added, please make a PR!
 ## Players
   - [WEBFISHING Guitar](https://webfishing-guitar.com/) - The community-run MIDI player made specifically for WEBFISHING.
   - [KevAquila's Guitar Player](https://github.com/KevAquila/WEBFISHING-Guitar-Player/) - Play MIDIs on WEBFISHING **without needing to mod your game, or setup loopMIDI**! (Useful if you want a vanilla like experience. However this locks your mouse to the window!)
-  - [Bard Music Player](https://bardmusicplayer.com/midis) - A MIDI player that has a simple UI, and has their song repository built in to the app.
+  - [Bard Music Player](https://github.com/BardMusicPlayer/BardMusicPlayer-2/releases/latest/download/BardMusicPlayer.zip) (Depreciated) - A MIDI player that has a simple UI, and has their song repository built in to the app.
+  - [LightAMP](https://github.com/GiR-Zippo/LightAmp/) - Updated player that FF14 players use for being a Bard.
   - [NanoMIDI Player](https://github.com/NotHammer043/nanoMIDIPlayer) - Simple, easy to use and configure MIDI player.
   - [Signal MIDI Player](https://signal.vercel.app/edit) - A MIDI player that runs completely in your browser using webMIDI.
 
@@ -68,7 +75,7 @@ All of these sites below let you download MIDIs for free!
   - [Webfishing Music Spreadsheet (outdated)](https://docs.google.com/spreadsheets/d/1lB0LjdHzhI4TUzsFfA_lN-UTkcLNwIjeJnx4y82DqQ8/edit?usp=sharing)
   - [Classical Guitar Midi Archives](https://www.classicalguitarmidi.com/)
   - [LyricWulf's Songs](https://lyricwulf.com/songs/)
-  - [Bard Music Player](https://songs.bardmusicplayer.com)
+  - [Bard Music Player](https://bardmusicplayer.com/midis)
   - [BitMidi](https://bitmidi.com/)
   - [MidiWorld](https://www.midiworld.com/files/)
   - [MidiFind](https://midifind.com/)
@@ -93,7 +100,7 @@ All of these sites below let you download MIDIs for free!
 ### Community
 ## Discords
 - [WEBFISHING Community Discord](https://discord.com/invite/webfishing)
-- [WEBFISHING Modding Community](https://discord.com/invite/webfishingmods)
+- ~~[WEBFISHING Modding Community](https://discord.com/invite/webfishingmods)~~ *The Discord has since been archived and locked down reminding people to go to the main Discord.*
 - [WEBFISHING Music Discord](https://discord.com/invite/7WtemYDazb)
 
 ## Steam Guides
