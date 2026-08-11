@@ -84,6 +84,7 @@ All of these sites below let you download MIDIs for free!
   - [MidiFilesDownload](https://midifilesdownload.com/modules/wfdownloads/)
   - [Ichigo's Sheet Music](https://ichigos.com/sheets/new)
   - [VGMusic](https://www.vgmusic.com)
+  - [Awesome MIDI Sources](https://github.com/albertmeronyo/awesome-midi-sources)
 
 --------------------
 
